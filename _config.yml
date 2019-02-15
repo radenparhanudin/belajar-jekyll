@@ -1,0 +1,3 @@
+markdown : redcarpet
+baseurl: /belajar-jekyll
+exclude:['README.md']
